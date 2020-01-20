@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://haywen404.github.io.git/"/>
-  <updated>2020-01-14T08:56:12.103Z</updated>
+  <updated>2020-01-20T14:11:06.258Z</updated>
   <id>https://haywen404.github.io.git/</id>
   
   <author>
@@ -15,6 +15,56 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexo写作教程</title>
+    <link href="https://haywen404.github.io.git/2020/01/20/hexo-writing/"/>
+    <id>https://haywen404.github.io.git/2020/01/20/hexo-writing/</id>
+    <published>2020-01-20T10:56:47.000Z</published>
+    <updated>2020-01-20T14:11:06.258Z</updated>
+    
+    <content type="html"><![CDATA[<p>Hexo文章拆解及写作教程！</p><a id="more"></a><h3 id="文章拆解"><a href="#文章拆解" class="headerlink" title="文章拆解"></a>文章拆解</h3><h3 id="写作教程"><a href="#写作教程" class="headerlink" title="写作教程"></a>写作教程</h3><h4 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h4><h4 id="摘要"><a href="#摘要" class="headerlink" title="摘要"></a>摘要</h4><p>文章内容中插入一行</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ &lt;!---more---&gt;</span><br></pre></td></tr></table></figure><p>该标签之上的文本为摘要，需点击阅读全文才能查看剩余的内容。另外也可以在_config.yml配置文件中设置每页显示多少篇文章。</p><h4 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h4><p>因为Hexo支持Markdown语言，所以直接使用MarkDown来撰写内容就行了，下面放了几篇MarkDown的教程可以参考。</p><blockquote><p><a href="https://www.runoob.com/markdown/md-tutorial.html" target="_blank" rel="noopener">菜鸟教程MarkDown教程</a></p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Hexo文章拆解及写作教程！&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="Hexo" scheme="https://Haywen404.github.io.git/tags/Hexo/"/>
+    
+      <category term="教程" scheme="https://Haywen404.github.io.git/tags/%E6%95%99%E7%A8%8B/"/>
+    
+      <category term="写作" scheme="https://Haywen404.github.io.git/tags/%E5%86%99%E4%BD%9C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo入门教程</title>
+    <link href="https://haywen404.github.io.git/2020/01/16/hexo-introduction/"/>
+    <id>https://haywen404.github.io.git/2020/01/16/hexo-introduction/</id>
+    <published>2020-01-16T12:29:29.000Z</published>
+    <updated>2030-01-16T12:29:29.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>一篇关于Hexo的入门教程！</p><a id="more"></a><p>我是在Windows环境下，家里穷用不起Mac，直接复制代码就可以了，对于对编程毫无经验的人来说，要把前面的“$ ”略去，它后面的代码在cmd中才可以运行。</p><h3 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h3><p>首先要在cmd里面进到你想要安装的文件夹下（里面），然后再在这个文件夹下执行Hexo和npm安装的相关命令。当然这些的前提条件是你要提前安装好Git和Node.js，如果你没有安装，可以分别点击下面两个链接查看安装教程。</p><blockquote><p><strong>Git</strong><br><strong>Node.js</strong></p></blockquote><h4 id="进入到指定文件夹下"><a href="#进入到指定文件夹下" class="headerlink" title="进入到指定文件夹下"></a>进入到指定文件夹下</h4><p>进入cmd</p><ul><li>Windows键(有四个小方形那个) + R</li><li>输入”cmd”,回车</li></ul><p>我是安装在C盘的Blog文件夹下，所以我接下来的命令就是：</p><ul><li>cd ..(向上走一级，多次重复一级一级的往上走走到C盘根目录)<br>或者是</li><li>cd C:(直接来到了C盘根目录)<br>然后是进入指定文件夹</li><li>cd Blog(先在文件资源管理器(我的电脑)里面的C盘先建好Blog文件夹，然后直接进入)<br>或者先</li><li>md Blog(创建Blog文件夹（注意：这里创建的Blog在我的电脑中显示的是blog）)<br>然后</li><li>cd Blog(进入文件夹)</li></ul><p>进入到指定文件夹之后就可以运行Hexo和npm的相关安装命令了。</p><h4 id="下载安装Hexo到文件夹"><a href="#下载安装Hexo到文件夹" class="headerlink" title="下载安装Hexo到文件夹"></a>下载安装Hexo到文件夹</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ npm install -g hexo-cli</span><br></pre></td></tr></table></figure><h4 id="Hexo初始化"><a href="#Hexo初始化" class="headerlink" title="Hexo初始化"></a>Hexo初始化</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo init</span><br></pre></td></tr></table></figure><h4 id="安装npm"><a href="#安装npm" class="headerlink" title="安装npm"></a>安装npm</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ npm install</span><br></pre></td></tr></table></figure><h4 id="安装Hexo部署"><a href="#安装Hexo部署" class="headerlink" title="安装Hexo部署"></a>安装Hexo部署</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ npm install --save hexo-deployer-git</span><br></pre></td></tr></table></figure><h3 id="使用"><a href="#使用" class="headerlink" title="使用"></a>使用</h3><p>Hexo常用的命令就只有下面几个</p><h4 id="清除已生成文件及缓存"><a href="#清除已生成文件及缓存" class="headerlink" title="清除已生成文件及缓存"></a>清除已生成文件及缓存</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo clean</span><br></pre></td></tr></table></figure><h4 id="生成网站静态页面"><a href="#生成网站静态页面" class="headerlink" title="生成网站静态页面"></a>生成网站静态页面</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo g</span><br></pre></td></tr></table></figure><blockquote><p>特别提醒！<br>每次修改文章后，都要执行这两条命令，清除掉旧的数据，然后重新生成网站文件。</p></blockquote><h4 id="打开本地WEB服务-localhost-4000-Ctrl-C关闭server"><a href="#打开本地WEB服务-localhost-4000-Ctrl-C关闭server" class="headerlink" title="打开本地WEB服务 localhost:4000 (Ctrl+C关闭server)"></a>打开本地WEB服务 localhost:4000 (Ctrl+C关闭server)</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo s</span><br></pre></td></tr></table></figure><h4 id="将文件部署到github-page"><a href="#将文件部署到github-page" class="headerlink" title="将文件部署到github page"></a>将文件部署到github page</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo d</span><br></pre></td></tr></table></figure><h4 id="新建一篇文章XXX"><a href="#新建一篇文章XXX" class="headerlink" title="新建一篇文章XXX"></a>新建一篇文章XXX</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new XXX</span><br></pre></td></tr></table></figure><h4 id="新建一个页面XXX"><a href="#新建一个页面XXX" class="headerlink" title="新建一个页面XXX"></a>新建一个页面XXX</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new page XXX</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;一篇关于Hexo的入门教程！&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="教程" scheme="https://Haywen404.github.io.git/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+      <category term="Hexo" scheme="https://Haywen404.github.io.git/tags/Hexo/"/>
+    
+      <category term="入门教程" scheme="https://Haywen404.github.io.git/tags/%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
