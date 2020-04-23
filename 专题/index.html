@@ -6,7 +6,7 @@
     
     
     
-    <title>归档: 2020 | 【主色调】 | 农夫，山泉，有点田！</title>
+    <title>专题 | 【主色调】 | 农夫，山泉，有点田！</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
     
     <meta name="theme-color" content="#77AAFF">
@@ -40,10 +40,12 @@
 
     
     <meta property="og:type" content="website">
-<meta property="og:title" content="【主色调】">
-<meta property="og:url" content="https://haywen404.github.io.git/archives/2020/index.html">
+<meta property="og:title" content="专题">
+<meta property="og:url" content="https://haywen404.github.io.git/%E4%B8%93%E9%A2%98/index.html">
 <meta property="og:site_name" content="【主色调】">
 <meta property="og:locale" content="en_US">
+<meta property="article:published_time" content="2020-04-23T09:55:59.000Z">
+<meta property="article:modified_time" content="2020-04-23T09:55:59.973Z">
 <meta property="article:author" content="Haywen">
 <meta name="twitter:card" content="summary">
     
@@ -60,7 +62,7 @@
 
 <body>
     <div id="loading" class="active"></div>
-    <aside id="menu"   >
+    <aside id="menu"  class="hide" >
   <div class="inner flex-row-vertical">
     <a href="javascript:;" class="header-icon waves-effect waves-circle waves-light" id="menu-off">
         <i class="icon icon-lg icon-close"></i>
@@ -88,7 +90,7 @@
                   </a>
               </li>
             
-              <li class="waves-block waves-effect active">
+              <li class="waves-block waves-effect">
                   <a href="/archives"  >
                     <i class="icon icon-lg icon-archives"></i>
                     <span>归 档</span><i class="icon icon-lg icon-caret-left"></i>
@@ -147,7 +149,7 @@
         <a href="javascript:;" class="header-icon waves-effect waves-circle waves-light on" id="menu-toggle">
           <i class="icon icon-lg icon-navicon"></i>
         </a>
-        <div class="flex-col header-title ellipsis">归档</div>
+        <div class="flex-col header-title ellipsis">专题</div>
         
         <div class="search-wrap" id="search-wrap">
             <a href="javascript:;" class="header-icon waves-effect waves-circle waves-light" id="back">
@@ -164,7 +166,7 @@
         </a>
     </div>
 </header>
-<header class="content-header archives-header">
+<header class="content-header page-header">
     
     
     <div class="container fade-scale">
@@ -174,7 +176,19 @@
             </h1>
             <h5 class="subtitle">
                 
-                    <h1 class="archivestitle">路漫漫其修远兮</h1>
+                    <h1 id="pagetitle" class="archivestitle"></h1>
+                    <script>
+                        if(location.href.indexOf('about')!=-1){
+                            pagetitle.textContent = '茅檐低小，溪上青青草。';
+                        }else if(location.href.indexOf('tags')!=-1||location.href.indexOf('categories')!=-1){
+                            var a=location.href.substring(location.href.length-5,location.href.length-1);
+                            if(a==='tags'){
+                                pagetitle.textContent = '不积小流无以成江海';
+                            }else if(a==='ries'){
+                                pagetitle.textContent = '不积跬步无以至千里';
+                            }
+                        }
+                    </script>
                 
             </h5>
         </div>
@@ -182,280 +196,66 @@
 
 </header>
 
-<div class="container body-wrap fade">
-    
 
-    
-            
-            <h3 class="archive-separator">
-                <i class="icon icon-lg icon-folder-o"></i>&nbsp;&nbsp;
-                2020
-            </h3>
-            <div class="waterfall">
-    
+<div class="container body-wrap">
+    <article class="page-article fade" itemprop="blogPage">
+        
+            <div class="card page-about-me flex-row">
+                <a href="/" class="avatar waves-effect waves-circle waves-light"><img src="/img/avatar.jpg"></a>
+                <div class="content flex-col">
+                    <p><strong>Haywen</strong></p>
+                    <p><em>农夫，山泉，有点田！</em></p>
+                    <p>业精于勤荒于嬉，行成于思毁于随</p>
+                </div>
+            </div>
+        
 
-        <article class="archive-article" onclick="location.href='/2020/04/23/%E9%98%BF%E9%87%8C%E5%9B%BE%E5%BA%8A%E5%9B%BE%E5%BA%8A%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8D%97/'">
-    <div class="archive-article-date">
-      
-      <time class="my-post-time">
-        <i class="icon icon-lg icon-file-text-o"></i>
-        &nbsp;
-          04-23
-      </time>
+        
+    <div class="page-reward">
+        <nav class="myreward">
+            <a id="rewardBtn" href="javascript:;"><span>打&nbsp;赏</span><span>装成好像很多人打赏的样子</span></a>
+        </nav>
     </div>
-    <div class="archive-article-inner">
-      
 
 
-  
-    <h3 class="post-title" itemprop="name">
-      <a href="/2020/04/23/%E9%98%BF%E9%87%8C%E5%9B%BE%E5%BA%8A%E5%9B%BE%E5%BA%8A%E9%85%8D%E7%BD%AE%E6%8C%87%E5%8D%97/">阿里图床图床配置指南</a>
+
+        
+    
+
+    
+
+    
+
+
+    </article>
+    
+<div id="reward" class="page-modal reward-lay">
+    <a class="close" href="javascript:;"><i class="icon icon-close"></i></a>
+    <h3 class="reward-title">
+        <i class="icon icon-quote-left"></i>
+        <span>感谢您的鼓励支持！</span>
+        <i class="icon icon-quote-right"></i>
     </h3>
-  
-
-
-
-      <br/>
-      
+    <div class="reward-content">
+        
+        <div class="reward-code">
+            <img id="rewardCode" data-img="/img/dog.png" alt="打赏二维码">
+        </div>
+        
+        <label class="reward-toggle">
+            <input id="rewardToggle" type="checkbox" class="reward-toggle-check"
+                data-wechat="/img/wechat.png" data-alipay="/img/alipay.png">
+            <div class="reward-toggle-ctrol">
+                <span class="reward-toggle-item wechatPay">&nbsp;&nbsp;微信&nbsp;&nbsp;</span>
+                <span class="reward-toggle-item alipayPay">支付宝</span>
+            </div>
+        </label>
+        
+        <i class="icon icon-caret-up"></i>
     </div>
-  </article>
-
-    
-
-        <article class="archive-article" onclick="location.href='/2020/04/23/MarkDown%E9%AB%98%E7%BA%A7%E6%8A%80%E5%B7%A7/'">
-    <div class="archive-article-date">
-      
-      <time class="my-post-time">
-        <i class="icon icon-lg icon-file-text-o"></i>
-        &nbsp;
-          04-23
-      </time>
-    </div>
-    <div class="archive-article-inner">
-      
+</div>
 
 
-  
-    <h3 class="post-title" itemprop="name">
-      <a href="/2020/04/23/MarkDown%E9%AB%98%E7%BA%A7%E6%8A%80%E5%B7%A7/">MarkDown高级技巧</a>
-    </h3>
-  
-
-
-
-      <br/>
-      
-    </div>
-  </article>
-
-    
-
-        <article class="archive-article" onclick="location.href='/2020/04/23/%E8%87%AA%E7%94%A8MarkDown%E8%AF%AD%E6%B3%95%E6%95%99%E7%A8%8B/'">
-    <div class="archive-article-date">
-      
-      <time class="my-post-time">
-        <i class="icon icon-lg icon-file-text-o"></i>
-        &nbsp;
-          04-23
-      </time>
-    </div>
-    <div class="archive-article-inner">
-      
-
-
-  
-    <h3 class="post-title" itemprop="name">
-      <a href="/2020/04/23/%E8%87%AA%E7%94%A8MarkDown%E8%AF%AD%E6%B3%95%E6%95%99%E7%A8%8B/">自用MarkDown语法教程</a>
-    </h3>
-  
-
-
-
-      <br/>
-      
-    </div>
-  </article>
-
-    
-
-        <article class="archive-article" onclick="location.href='/2020/02/09/wpspro/'">
-    <div class="archive-article-date">
-      
-      <time class="my-post-time">
-        <i class="icon icon-lg icon-file-text-o"></i>
-        &nbsp;
-          02-09
-      </time>
-    </div>
-    <div class="archive-article-inner">
-      
-
-
-  
-    <h3 class="post-title" itemprop="name">
-      <a href="/2020/02/09/wpspro/">超好用的 WPS office 应用</a>
-    </h3>
-  
-
-
-
-      <br/>
-      
-	<ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/APP/" rel="tag">APP</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/office/" rel="tag">office</a></li></ul>
-
-    </div>
-  </article>
-
-    
-
-        <article class="archive-article" onclick="location.href='/2020/02/07/Pr2020-setup/'">
-    <div class="archive-article-date">
-      
-      <time class="my-post-time">
-        <i class="icon icon-lg icon-file-text-o"></i>
-        &nbsp;
-          02-07
-      </time>
-    </div>
-    <div class="archive-article-inner">
-      
-
-
-  
-    <h3 class="post-title" itemprop="name">
-      <a href="/2020/02/07/Pr2020-setup/">Pr2020资源及安装</a>
-    </h3>
-  
-
-
-
-      <br/>
-      
-	<ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Pr/" rel="tag">Pr</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/" rel="tag">安装教程</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/%E8%BD%AF%E4%BB%B6/" rel="tag">软件</a></li></ul>
-
-    </div>
-  </article>
-
-    
-
-        <article class="archive-article" onclick="location.href='/2020/02/02/fqsw-lecture%20notes/'">
-    <div class="archive-article-date">
-      
-      <time class="my-post-time">
-        <i class="icon icon-lg icon-file-text-o"></i>
-        &nbsp;
-          02-02
-      </time>
-    </div>
-    <div class="archive-article-inner">
-      
-
-
-  
-    <h3 class="post-title" itemprop="name">
-      <a href="/2020/02/02/fqsw-lecture%20notes/">富强上网经验</a>
-    </h3>
-  
-
-
-
-      <br/>
-      
-    </div>
-  </article>
-
-    
-
-        <article class="archive-article" onclick="location.href='/2020/01/20/hexo-writing/'">
-    <div class="archive-article-date">
-      
-      <time class="my-post-time">
-        <i class="icon icon-lg icon-file-text-o"></i>
-        &nbsp;
-          01-20
-      </time>
-    </div>
-    <div class="archive-article-inner">
-      
-
-
-  
-    <h3 class="post-title" itemprop="name">
-      <a href="/2020/01/20/hexo-writing/">Hexo写作教程</a>
-    </h3>
-  
-
-
-
-      <br/>
-      
-	<ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Hexo/" rel="tag">Hexo</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/%E5%86%99%E4%BD%9C/" rel="tag">写作</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/%E6%95%99%E7%A8%8B/" rel="tag">教程</a></li></ul>
-
-    </div>
-  </article>
-
-    
-
-        <article class="archive-article" onclick="location.href='/2020/01/16/hexo-introduction/'">
-    <div class="archive-article-date">
-      
-      <time class="my-post-time">
-        <i class="icon icon-lg icon-file-text-o"></i>
-        &nbsp;
-          01-16
-      </time>
-    </div>
-    <div class="archive-article-inner">
-      
-
-
-  
-    <h3 class="post-title" itemprop="name">
-      <a href="/2020/01/16/hexo-introduction/">Hexo入门教程</a>
-    </h3>
-  
-
-
-
-      <br/>
-      
-	<ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Hexo/" rel="tag">Hexo</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/" rel="tag">入门教程</a></li></ul>
-
-    </div>
-  </article>
-
-    
-
-        <article class="archive-article" onclick="location.href='/2020/01/14/hello-world/'">
-    <div class="archive-article-date">
-      
-      <time class="my-post-time">
-        <i class="icon icon-lg icon-file-text-o"></i>
-        &nbsp;
-          01-14
-      </time>
-    </div>
-    <div class="archive-article-inner">
-      
-
-
-  
-    <h3 class="post-title" itemprop="name">
-      <a href="/2020/01/14/hello-world/">Hello World</a>
-    </h3>
-  
-
-
-
-      <br/>
-      
-    </div>
-  </article>
-
-    
-    </div>
-
-    
 </div>
 
         <footer class="footer">
@@ -509,7 +309,7 @@
 
 <!-- 主题配置脚本 -->
 <script>
-var BLOG = { ROOT: '/', SHARE: true, REWARD: false };
+var BLOG = { ROOT: '/', SHARE: true, REWARD: true };
 </script>
 
 <!-- jquery -->
