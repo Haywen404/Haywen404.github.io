@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Haywen的博客</title>
+  <title>【主色调】</title>
   
-  <subtitle>互联网中的一亩三分地</subtitle>
+  <subtitle>农夫，山泉，有点田！</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://haywen404.github.io.git/"/>
-  <updated>2020-01-20T14:11:06.258Z</updated>
+  <updated>2020-02-20T04:50:49.641Z</updated>
   <id>https://haywen404.github.io.git/</id>
   
   <author>
@@ -17,13 +17,80 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>超好用的 WPS office 应用</title>
+    <link href="https://haywen404.github.io.git/2020/02/09/wpspro/"/>
+    <id>https://haywen404.github.io.git/2020/02/09/wpspro/</id>
+    <published>2020-02-09T11:12:17.000Z</published>
+    <updated>2020-02-20T04:50:49.641Z</updated>
+    
+    <content type="html"><![CDATA[<p>不看后悔系列！比国际版的 WPS office 还好用的 WPS office 应用！</p><a id="more"></a><h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>众所周知，很多大家日常使用的App为了开拓海外市场，都做了专门的国际版。而这些国际版的 APP 相对于国内版的而言里面都藏着一些国内版没有的福利。而且国际版 APP 都有着干净整洁的美誉。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;不看后悔系列！比国际版的 WPS office 还好用的 WPS office 应用！&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="office" scheme="https://Haywen404.github.io.git/tags/office/"/>
+    
+      <category term="APP" scheme="https://Haywen404.github.io.git/tags/APP/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Pr2020资源及安装</title>
+    <link href="https://haywen404.github.io.git/2020/02/07/Pr2020-setup/"/>
+    <id>https://haywen404.github.io.git/2020/02/07/Pr2020-setup/</id>
+    <published>2020-02-07T14:39:07.000Z</published>
+    <updated>2020-02-09T11:32:34.972Z</updated>
+    
+    <content type="html"><![CDATA[<p>奶爸级！一步一步教你安装Pr2020！（附资源下载）</p><a id="more"></a><h3 id="软件下载"><a href="#软件下载" class="headerlink" title="软件下载"></a>软件下载</h3><p>[软件名称]：Premiere Pro 2020<br>[软件大小]：1.64 GB<br>[安装环境]：Win10<br>[操作系统]：64位<br>[下载链接]：</p><h3 id="软件简介"><a href="#软件简介" class="headerlink" title="软件简介"></a>软件简介</h3><p>Premiere Pro是视频编辑爱好者和专业人士必不可少的视频编辑工具。它可以提升您的创作能力和创作自由度，它是易学、高效、精确的视频剪辑软件。Premiere提供了采集、剪辑、调色、美化音频、字幕添加、输出、DVD刻录的一整套流程，并和其他Adobe软件高效集成，使您足以完成在编辑、制作、工作流上遇到的所有挑战，满足您创建高质量作品的要求。</p><h3 id="安装步骤"><a href="#安装步骤" class="headerlink" title="安装步骤"></a>安装步骤</h3><h4 id="将下载到本地的压缩包解压"><a href="#将下载到本地的压缩包解压" class="headerlink" title="将下载到本地的压缩包解压"></a>将下载到本地的压缩包解压</h4><p>选择【Premiere Pro 2020】双击左键或单击右键打开，选择自己知道的解压路径解压。<br><img src="https://i.loli.net/2020/02/07/sqV8XN4pGodcwuj.png" alt="软件压缩包压缩包"></p><h4 id="打开解压后的文件夹"><a href="#打开解压后的文件夹" class="headerlink" title="打开解压后的文件夹"></a>打开解压后的文件夹</h4><p>双击打开文件夹【Premiere Pro 2020】<br><img src="https://i.loli.net/2020/02/07/iywutZQGl2Eq5gL.png" alt="左：解压完成    右：压缩包"></p><h4 id="双击打开【setup】文件夹"><a href="#双击打开【setup】文件夹" class="headerlink" title="双击打开【setup】文件夹"></a>双击打开【setup】文件夹</h4><p><img src="https://i.loli.net/2020/02/07/Xr4t3Qzv56hkZ7a.png" alt="Premiere Pro 2020"></p><h4 id="运行软件安装程序"><a href="#运行软件安装程序" class="headerlink" title="运行软件安装程序"></a>运行软件安装程序</h4><p>鼠标右击软件安装程序【Set-up.exe】选择【以管理员身份运行】，然后选择【允许】<br><img src="https://i.loli.net/2020/02/07/spdeMnJ3rGq4825.png" alt="右键【以管理员身份运行】"></p><h4 id="进入程序安装页面"><a href="#进入程序安装页面" class="headerlink" title="进入程序安装页面"></a>进入程序安装页面</h4><p>可以更具个人需要，更改【语言】以及【安装位置】</p><blockquote><p>建议安装在除C盘之外的其它磁盘，可在D盘或其它磁盘内新建一个【Premiere Pro 2020】文件夹，然后点击【确定】<br><img src="https://i.loli.net/2020/02/07/7BrnukciaoMsw4x.png" alt="程序安装页面"></p></blockquote><h4 id="正在安装"><a href="#正在安装" class="headerlink" title="正在安装"></a>正在安装</h4><p><img src="https://i.loli.net/2020/02/07/n5uc1TNqPgRB6VG.png" alt="正在安装"></p><h4 id="安装完成，点击【关闭】"><a href="#安装完成，点击【关闭】" class="headerlink" title="安装完成，点击【关闭】"></a>安装完成，点击【关闭】</h4><p><img src="https://i.loli.net/2020/02/07/1kgF2cSM9O8YHnV.png" alt="安装完成"></p><h4 id="运行程序"><a href="#运行程序" class="headerlink" title="运行程序"></a>运行程序</h4><p>双击桌面的【Adobe Premiere Pro 2020】软件图标运行软件<br><img src="https://i.loli.net/2020/02/07/wMalUuKjfYgIzC2.png" alt="双击快捷方式"></p><h4 id="打开软件"><a href="#打开软件" class="headerlink" title="打开软件"></a>打开软件</h4><p>首次打开软件界面如下<br><img src="https://i.loli.net/2020/02/07/UpNayvEuwJHYgzO.png" alt="首次打开界面"></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;奶爸级！一步一步教你安装Pr2020！（附资源下载）&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="安装教程" scheme="https://Haywen404.github.io.git/categories/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/"/>
+    
+      <category term="软件资源" scheme="https://Haywen404.github.io.git/categories/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/%E8%BD%AF%E4%BB%B6%E8%B5%84%E6%BA%90/"/>
+    
+    
+      <category term="Pr" scheme="https://Haywen404.github.io.git/tags/Pr/"/>
+    
+      <category term="软件" scheme="https://Haywen404.github.io.git/tags/%E8%BD%AF%E4%BB%B6/"/>
+    
+      <category term="安装教程" scheme="https://Haywen404.github.io.git/tags/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>富强上网经验</title>
+    <link href="https://haywen404.github.io.git/2020/02/02/fqsw-lecture%20notes/"/>
+    <id>https://haywen404.github.io.git/2020/02/02/fqsw-lecture%20notes/</id>
+    <published>2020-02-02T10:00:05.000Z</published>
+    <updated>2020-02-07T14:49:11.377Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>Hexo写作教程</title>
     <link href="https://haywen404.github.io.git/2020/01/20/hexo-writing/"/>
     <id>https://haywen404.github.io.git/2020/01/20/hexo-writing/</id>
     <published>2020-01-20T10:56:47.000Z</published>
-    <updated>2020-01-20T14:11:06.258Z</updated>
+    <updated>2020-02-02T10:11:35.629Z</updated>
     
-    <content type="html"><![CDATA[<p>Hexo文章拆解及写作教程！</p><a id="more"></a><h3 id="文章拆解"><a href="#文章拆解" class="headerlink" title="文章拆解"></a>文章拆解</h3><h3 id="写作教程"><a href="#写作教程" class="headerlink" title="写作教程"></a>写作教程</h3><h4 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h4><h4 id="摘要"><a href="#摘要" class="headerlink" title="摘要"></a>摘要</h4><p>文章内容中插入一行</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ &lt;!---more---&gt;</span><br></pre></td></tr></table></figure><p>该标签之上的文本为摘要，需点击阅读全文才能查看剩余的内容。另外也可以在_config.yml配置文件中设置每页显示多少篇文章。</p><h4 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h4><p>因为Hexo支持Markdown语言，所以直接使用MarkDown来撰写内容就行了，下面放了几篇MarkDown的教程可以参考。</p><blockquote><p><a href="https://www.runoob.com/markdown/md-tutorial.html" target="_blank" rel="noopener">菜鸟教程MarkDown教程</a></p></blockquote>]]></content>
+    <content type="html"><![CDATA[<p>Hexo文章拆解及写作教程！</p><a id="more"></a><h3 id="文章拆解"><a href="#文章拆解" class="headerlink" title="文章拆解"></a>文章拆解</h3><p>样例文章</p><h3 id="写作教程"><a href="#写作教程" class="headerlink" title="写作教程"></a>写作教程</h3><h4 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h4><h4 id="摘要"><a href="#摘要" class="headerlink" title="摘要"></a>摘要</h4><p>文章内容中插入一行</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ &lt;!---more---&gt;</span><br></pre></td></tr></table></figure><p>该标签之上的文本为摘要，需点击阅读全文才能查看剩余的内容。另外也可以在_config.yml配置文件中设置每页显示多少篇文章。</p><h4 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h4><p>因为Hexo支持Markdown语言，所以直接使用MarkDown来撰写内容就行了，下面放了篇MarkDown的教程可以参考。</p><blockquote><p><a href="https://www.runoob.com/markdown/md-tutorial.html" target="_blank" rel="noopener">菜鸟教程MarkDown教程</a></p></blockquote>]]></content>
     
     <summary type="html">
     
@@ -48,7 +115,7 @@
     <published>2020-01-16T12:29:29.000Z</published>
     <updated>2030-01-16T12:29:29.000Z</updated>
     
-    <content type="html"><![CDATA[<p>一篇关于Hexo的入门教程！</p><a id="more"></a><p>我是在Windows环境下，家里穷用不起Mac，直接复制代码就可以了，对于对编程毫无经验的人来说，要把前面的“$ ”略去，它后面的代码在cmd中才可以运行。</p><h3 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h3><p>首先要在cmd里面进到你想要安装的文件夹下（里面），然后再在这个文件夹下执行Hexo和npm安装的相关命令。当然这些的前提条件是你要提前安装好Git和Node.js，如果你没有安装，可以分别点击下面两个链接查看安装教程。</p><blockquote><p><strong>Git</strong><br><strong>Node.js</strong></p></blockquote><h4 id="进入到指定文件夹下"><a href="#进入到指定文件夹下" class="headerlink" title="进入到指定文件夹下"></a>进入到指定文件夹下</h4><p>进入cmd</p><ul><li>Windows键(有四个小方形那个) + R</li><li>输入”cmd”,回车</li></ul><p>我是安装在C盘的Blog文件夹下，所以我接下来的命令就是：</p><ul><li>cd ..(向上走一级，多次重复一级一级的往上走走到C盘根目录)<br>或者是</li><li>cd C:(直接来到了C盘根目录)<br>然后是进入指定文件夹</li><li>cd Blog(先在文件资源管理器(我的电脑)里面的C盘先建好Blog文件夹，然后直接进入)<br>或者先</li><li>md Blog(创建Blog文件夹（注意：这里创建的Blog在我的电脑中显示的是blog）)<br>然后</li><li>cd Blog(进入文件夹)</li></ul><p>进入到指定文件夹之后就可以运行Hexo和npm的相关安装命令了。</p><h4 id="下载安装Hexo到文件夹"><a href="#下载安装Hexo到文件夹" class="headerlink" title="下载安装Hexo到文件夹"></a>下载安装Hexo到文件夹</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ npm install -g hexo-cli</span><br></pre></td></tr></table></figure><h4 id="Hexo初始化"><a href="#Hexo初始化" class="headerlink" title="Hexo初始化"></a>Hexo初始化</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo init</span><br></pre></td></tr></table></figure><h4 id="安装npm"><a href="#安装npm" class="headerlink" title="安装npm"></a>安装npm</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ npm install</span><br></pre></td></tr></table></figure><h4 id="安装Hexo部署"><a href="#安装Hexo部署" class="headerlink" title="安装Hexo部署"></a>安装Hexo部署</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ npm install --save hexo-deployer-git</span><br></pre></td></tr></table></figure><h3 id="使用"><a href="#使用" class="headerlink" title="使用"></a>使用</h3><p>Hexo常用的命令就只有下面几个</p><h4 id="清除已生成文件及缓存"><a href="#清除已生成文件及缓存" class="headerlink" title="清除已生成文件及缓存"></a>清除已生成文件及缓存</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo clean</span><br></pre></td></tr></table></figure><h4 id="生成网站静态页面"><a href="#生成网站静态页面" class="headerlink" title="生成网站静态页面"></a>生成网站静态页面</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo g</span><br></pre></td></tr></table></figure><blockquote><p>特别提醒！<br>每次修改文章后，都要执行这两条命令，清除掉旧的数据，然后重新生成网站文件。</p></blockquote><h4 id="打开本地WEB服务-localhost-4000-Ctrl-C关闭server"><a href="#打开本地WEB服务-localhost-4000-Ctrl-C关闭server" class="headerlink" title="打开本地WEB服务 localhost:4000 (Ctrl+C关闭server)"></a>打开本地WEB服务 localhost:4000 (Ctrl+C关闭server)</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo s</span><br></pre></td></tr></table></figure><h4 id="将文件部署到github-page"><a href="#将文件部署到github-page" class="headerlink" title="将文件部署到github page"></a>将文件部署到github page</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo d</span><br></pre></td></tr></table></figure><h4 id="新建一篇文章XXX"><a href="#新建一篇文章XXX" class="headerlink" title="新建一篇文章XXX"></a>新建一篇文章XXX</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new XXX</span><br></pre></td></tr></table></figure><h4 id="新建一个页面XXX"><a href="#新建一个页面XXX" class="headerlink" title="新建一个页面XXX"></a>新建一个页面XXX</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new page XXX</span><br></pre></td></tr></table></figure>]]></content>
+    <content type="html"><![CDATA[<p>一篇关于Hexo的入门教程！</p><a id="more"></a><p>我是在Windows环境下，家里穷用不起Mac，直接复制代码就可以了，对于对编程毫无经验的人来说，要把前面的“$ ”略去，它后面的代码在cmd中才可以运行。</p><h3 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h3><p>首先要在cmd里面进到你想要安装的文件夹下（里面），然后再在这个文件夹下执行Hexo和npm安装的相关命令。当然这些的前提条件是你要提前安装好Git和Node.js，如果你没有安装，可以分别点击下面两个链接查看安装教程。</p><blockquote><p><strong>Git</strong><br><strong>Node.js</strong></p></blockquote><h4 id="进入到指定文件夹下"><a href="#进入到指定文件夹下" class="headerlink" title="进入到指定文件夹下"></a>进入到指定文件夹下</h4><p>进入cmd</p><ul><li>Windows键(有四个小方形那个) + R</li><li>输入”cmd”,回车</li></ul><p>我是安装在C盘的Blog文件夹下，所以我接下来的命令就是：</p><ul><li>cd ..(向上走一级，多次重复一级一级的往上走走到C盘根目录)<br>或者是</li><li>cd C:(直接来到了C盘根目录)<br>然后是进入指定文件夹</li><li>cd Blog(先在文件资源管理器(我的电脑)里面的C盘先建好Blog文件夹，然后直接进入)<br>或者先</li><li>md Blog(创建Blog文件夹（注意：这里创建的Blog在我的电脑中显示的是blog）)<br>然后</li><li>cd Blog(进入文件夹)</li></ul><p>进入到指定文件夹之后就可以运行Hexo和npm的相关安装命令了。</p><h4 id="下载安装Hexo到文件夹"><a href="#下载安装Hexo到文件夹" class="headerlink" title="下载安装Hexo到文件夹"></a>下载安装Hexo到文件夹</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ npm install -g hexo-cli</span><br></pre></td></tr></table></figure><h4 id="Hexo初始化"><a href="#Hexo初始化" class="headerlink" title="Hexo初始化"></a>Hexo初始化</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo init</span><br></pre></td></tr></table></figure><h4 id="安装npm"><a href="#安装npm" class="headerlink" title="安装npm"></a>安装npm</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ npm install</span><br></pre></td></tr></table></figure><h4 id="安装Hexo部署"><a href="#安装Hexo部署" class="headerlink" title="安装Hexo部署"></a>安装Hexo部署</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ npm install --save hexo-deployer-git</span><br></pre></td></tr></table></figure><h3 id="使用"><a href="#使用" class="headerlink" title="使用"></a>使用</h3><p>Hexo常用的命令就只有下面几个</p><h4 id="清除已生成文件及缓存"><a href="#清除已生成文件及缓存" class="headerlink" title="清除已生成文件及缓存"></a>清除已生成文件及缓存</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo clean</span><br></pre></td></tr></table></figure><h4 id="生成网站静态页面"><a href="#生成网站静态页面" class="headerlink" title="生成网站静态页面"></a>生成网站静态页面</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo g</span><br></pre></td></tr></table></figure><blockquote><p>特别提醒！<br>每次修改文章后，都要执行这两条命令，清除掉旧的数据，然后重新生成网站文件。</p></blockquote><h4 id="打开本地WEB服务"><a href="#打开本地WEB服务" class="headerlink" title="打开本地WEB服务"></a>打开本地WEB服务</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo s</span><br></pre></td></tr></table></figure><p>localhost:4000 (Ctrl+C关闭server)</p><h4 id="将文件部署到github-page"><a href="#将文件部署到github-page" class="headerlink" title="将文件部署到github page"></a>将文件部署到github page</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo d</span><br></pre></td></tr></table></figure><h4 id="新建一篇文章XXX"><a href="#新建一篇文章XXX" class="headerlink" title="新建一篇文章XXX"></a>新建一篇文章XXX</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new XXX</span><br></pre></td></tr></table></figure><h4 id="新建一个页面XXX"><a href="#新建一个页面XXX" class="headerlink" title="新建一个页面XXX"></a>新建一个页面XXX</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new page XXX</span><br></pre></td></tr></table></figure>]]></content>
     
     <summary type="html">
     
@@ -71,16 +138,13 @@
     <link href="https://haywen404.github.io.git/2020/01/14/hello-world/"/>
     <id>https://haywen404.github.io.git/2020/01/14/hello-world/</id>
     <published>2020-01-14T08:56:12.102Z</published>
-    <updated>2020-01-14T08:56:12.103Z</updated>
+    <updated>2020-02-07T14:46:06.064Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><a id="more"></a><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
-      
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
     
     </summary>
     
